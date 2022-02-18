@@ -1,3 +1,0 @@
-﻿  CustomTree.cpp
-D:\Programms\VS\Тренинг\CustomTree\CustomTree\CustomTree.cpp(212,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  CustomTree.vcxproj -> D:\Programms\VS\Тренинг\CustomTree\Debug\CustomTree.exe
